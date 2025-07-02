@@ -78,7 +78,7 @@ O projeto é dividido em três scripts principais:
     python analise_dados.py
     ```
 
-   Este script exibirá no console informações sobre o DataFrame, a contagem de medições por poluente e o período de cobertura dos dados. [cite: 1] [cite\_start]Em seguida, ele gerará e exibirá os dois gráficos descritos nas funcionalidades.
+   Este script exibirá no console informações sobre o DataFrame, a contagem de medições por poluente e o período de cobertura dos dados. Em seguida, ele gerará e exibirá os dois gráficos descritos nas funcionalidades.
 
 3.  **Listar Cidades/Localizações (`listar_cidades.py` - Opcional):**
     Este script pode ser útil para explorar outras cidades ou localizações disponíveis na API OpenAQ, listando seus IDs e nomes.
